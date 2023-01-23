@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(pink, gray);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+input{
+    font-size: 25px;
+    width: 10rem;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 50px;
+
+}
+label{
+    font-size: 22px;
+}
+button{
+    font-size: 25px;
+    width: 10rem;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: dodgerblue;
+}
+/* <div id='container'> */
+
+
+#spancontainer{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 500px;
+    font-size: 15px;
+    border: 2px solid red;
+    padding: 20px;
+    margin: 15px 80px;
+    border-radius: 2rem;
+    background-color: aqua;
+  
+  }
+
+.gobackbtn{
+    margin-top: 60px;
+    margin-left: 620px;
+    text-align: center;
+    background-color: darkcyan;
+}
